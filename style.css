@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    color: black;
+    font-size: 16px;
+    font-family: 'new times roman', sans-serif;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    position: fixed;
+    z-index: -500;
+    width: 100%;
+}
+
